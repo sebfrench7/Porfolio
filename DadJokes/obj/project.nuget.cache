@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2YI35oE/jceEDQfdJ2vj3EOPqo4wZ2buGYbpxMlJHFQ5w1o7Ol0NlVZD5PYoqOGJcZMhx/dnpxUfLD+RibyZw==",
+  "success": true,
+  "projectFilePath": "/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/DadJokes.csproj",
+  "expectedPackageFiles": [
+    "/Users/Seb/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

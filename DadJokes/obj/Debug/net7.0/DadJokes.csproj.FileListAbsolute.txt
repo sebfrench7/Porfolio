@@ -1,0 +1,34 @@
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/DadJokes.csproj.AssemblyReference.cache
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/DadJokes.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/DadJokes.AssemblyInfoInputs.cache
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/DadJokes.AssemblyInfo.cs
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/DadJokes.csproj.CoreCompileInputs.cache
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/bin/Debug/net7.0/DadJokes
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/bin/Debug/net7.0/DadJokes.deps.json
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/bin/Debug/net7.0/DadJokes.runtimeconfig.json
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/bin/Debug/net7.0/DadJokes.dll
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/bin/Debug/net7.0/DadJokes.pdb
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/DadJokes.csproj.CopyComplete
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/DadJokes.dll
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/refint/DadJokes.dll
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/DadJokes.pdb
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/DadJokes.genruntimeconfig.cache
+/Volumes/HDD/Users/Seb/SoC/Porfolio /DadJokes/obj/Debug/net7.0/ref/DadJokes.dll
+/Volumes/HDD/.Trashes/501/DadJokes/bin/Debug/net7.0/DadJokes
+/Volumes/HDD/.Trashes/501/DadJokes/bin/Debug/net7.0/DadJokes.deps.json
+/Volumes/HDD/.Trashes/501/DadJokes/bin/Debug/net7.0/DadJokes.runtimeconfig.json
+/Volumes/HDD/.Trashes/501/DadJokes/bin/Debug/net7.0/DadJokes.dll
+/Volumes/HDD/.Trashes/501/DadJokes/bin/Debug/net7.0/DadJokes.pdb
+/Volumes/HDD/.Trashes/501/DadJokes/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/DadJokes.csproj.AssemblyReference.cache
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/DadJokes.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/DadJokes.AssemblyInfoInputs.cache
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/DadJokes.AssemblyInfo.cs
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/DadJokes.csproj.CoreCompileInputs.cache
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/DadJokes.csproj.CopyComplete
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/DadJokes.dll
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/refint/DadJokes.dll
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/DadJokes.pdb
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/DadJokes.genruntimeconfig.cache
+/Volumes/HDD/.Trashes/501/DadJokes/obj/Debug/net7.0/ref/DadJokes.dll
